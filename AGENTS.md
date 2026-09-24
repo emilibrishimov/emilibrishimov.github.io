@@ -5,8 +5,8 @@ Guidance for AI coding agents working in this repository.
 ## What this is
 
 A static website that hosts Emil Ibrishimov's personal resume, served by GitHub Pages
-at https://emilibrishimov.github.io. A visitor lands on the page and sees the resume —
-nothing else. Think of it as a personal, self-hosted version of a public LinkedIn profile.
+at https://emilibrishimov.github.io. A visitor lands on the page and sees the resume and
+nothing else.
 
 ## Design principles
 
@@ -36,3 +36,9 @@ Pushing to `main` publishes the site via GitHub Pages. There is no build step.
 - Keep the site static: everything must work by opening `index.html` directly.
 - Preview locally with `python3 -m http.server` and check both narrow and wide viewports.
 - Don't invent resume content — only use information provided by Emil.
+- Never commit (or push) without Emil reviewing the diff locally and explicitly confirming
+  first. Propose the commit message along with the diff so it can be reviewed too. Once
+  confirmed, commit and push directly to `main` — no branches or pull requests.
+- Commit messages should be clear and descriptive: a concise summary line that says what
+  changed. Only add a body when the change is non-trivial and it's necessary.
+- Don't add `Co-Authored-By` (or any other attribution) lines to commit messages.
