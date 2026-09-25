@@ -1,0 +1,55 @@
+Emil Ibrishimov
+San Francisco Bay Area
+
+EXPERIENCE
+
+Gem (gem.com), San Francisco, CA
+Series B to Series C @ 1.2B
+
+Chief Technology Officer, Feb 2024–Jul 2026
+- Led Engineering, Product, and Design.
+- Led the pivot from best-of-breed recruiting outreach and analytics to an all-in-one recruiting platform with Gem ATS, AI Sourcing, and AI Application Review.
+- Rebuilt the San Francisco team and opened a second EPD office in Sofia, Bulgaria.
+
+VP of Engineering, Mar 2021–Feb 2024
+- Grew engineering 4x in 18 months.
+- Navigated the biggest tech-recruiting downturn since the dot-com crash.
+
+Dropbox (dropbox.com), San Francisco, CA
+Series B to public
+
+Director of Engineering, Jul 2019–Mar 2021
+- Led Sharing, Permissions, and Filesystem.
+- Led Product Security, Infrastructure Security, and Product Abuse.
+
+Engineering Manager, Mar 2015–Jul 2019
+- Led Business and Enterprise.
+- Led API & Developer Platform.
+
+Software Engineer, Aug 2012–Mar 2015
+- Tech lead for Dropbox for Business.
+
+ADVISORY
+
+Deep Infra (deepinfra.com), Nov 2023–present
+AI inference cloud, Seed to Series B
+
+Catio (catio.tech), Feb 2023–present
+AI Software Architect, Pre-seed to seed
+
+EARLY CAREER
+
+Cofounder, izpitai.me, Sofia, Bulgaria, Oct 2010–Jul 2012
+Software Engineer Intern, Everbread Limited, Sofia, Bulgaria, Apr–Jul 2011
+Software Engineer Intern, Google, Mountain View, CA, Jul–Sep 2010
+Software Engineer Intern, Facebook, Palo Alto, CA, Jul–Sep 2009
+Software Engineer, Musala Soft, Sofia, Bulgaria, Oct 2007–Aug 2008
+
+EDUCATION
+
+California Institute of Technology, BS Computer Science, 2008–2012
+
+AWARDS
+
+Silver Medal, International Olympiad in Informatics (IOI), Zagreb, Croatia, 2007
+World Finalist, ACM ICPC, Stockholm, Sweden, 2009

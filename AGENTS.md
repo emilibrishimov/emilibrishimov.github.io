@@ -22,6 +22,7 @@ nothing else.
 
 ## Structure
 
+- `resume.txt` — the resume content in plain text; the source of truth for what the page says.
 - `index.html` — the resume page (the site's entry point).
 - `.nojekyll` — tells GitHub Pages to serve files as-is, without Jekyll processing.
 - `AGENTS.md` — this file; the source of truth for agent instructions.
@@ -42,3 +43,4 @@ Pushing to `main` publishes the site via GitHub Pages. There is no build step.
 - Commit messages should be clear and descriptive: a concise summary line that says what
   changed. Only add a body when the change is non-trivial and it's necessary.
 - Don't add `Co-Authored-By` (or any other attribution) lines to commit messages.
+- Changes to `AGENTS.md` go in the same commit as the files they relate to.
